@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/nclnicolas/Pokemon/static/css/main.93508e31.css",
+    "main.js": "/nclnicolas/Pokemon/static/js/main.c2160ddd.js",
+    "static/media/cardsPokemon.png": "/nclnicolas/Pokemon/static/media/cardsPokemon.c9ca929382a6785fcacb.png",
+    "static/media/tvPokemon.png": "/nclnicolas/Pokemon/static/media/tvPokemon.d977871fea050348414e.png",
+    "static/media/playPokemon.png": "/nclnicolas/Pokemon/static/media/playPokemon.c535884cd6906daae9e6.png",
+    "static/media/bulbausor.jpg": "/nclnicolas/Pokemon/static/media/bulbausor.f33ea9c49e305a566fdd.jpg",
+    "static/media/BienvenidaHome.png": "/nclnicolas/Pokemon/static/media/BienvenidaHome.06b863954b9c804dfea6.png",
+    "static/media/HomeeIcon.ico": "/nclnicolas/Pokemon/static/media/HomeeIcon.cdf9913999158b7bcad3.ico",
+    "static/media/contactIco.ico": "/nclnicolas/Pokemon/static/media/contactIco.65571f180962494772d4.ico",
+    "static/media/homeIcon.ico": "/nclnicolas/Pokemon/static/media/homeIcon.9489ffe74a6f11245e1a.ico",
+    "static/media/informationIcon.ico": "/nclnicolas/Pokemon/static/media/informationIcon.6f20cdd80c2171560fe4.ico",
+    "static/media/navBarIcon.ico": "/nclnicolas/Pokemon/static/media/navBarIcon.025fd5aaad3e18ee6fc3.ico",
+    "static/media/pokebolaIcon.ico": "/nclnicolas/Pokemon/static/media/pokebolaIcon.59fdc8bbca7a8a315578.ico",
+    "static/media/pokemonNavBar.png": "/nclnicolas/Pokemon/static/media/pokemonNavBar.49d545dd0b5e5868eda9.png",
+    "static/media/ash.jpg": "/nclnicolas/Pokemon/static/media/ash.547afcee41b354adc5f2.jpg",
+    "static/media/pikachu.webp": "/nclnicolas/Pokemon/static/media/pikachu.a3bc30364fc423715a94.webp",
+    "index.html": "/nclnicolas/Pokemon/index.html",
+    "main.93508e31.css.map": "/nclnicolas/Pokemon/static/css/main.93508e31.css.map",
+    "main.c2160ddd.js.map": "/nclnicolas/Pokemon/static/js/main.c2160ddd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93508e31.css",
+    "static/js/main.c2160ddd.js"
+  ]
+}
